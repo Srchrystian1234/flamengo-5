@@ -94,7 +94,7 @@ main p{
 }
 main img{
     border-radius: 10px;
-    
+    width:300px ;
     padding: 5px;
 }
 img.preto-branco{
